@@ -1,2 +1,2 @@
 # Boarding-Hunter
-Its hunt boarding houses
+School Project. System for boarding house seekers, or for room rental seekers.
